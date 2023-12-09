@@ -2,7 +2,7 @@
 
 ## Description
 
-This study guide was created for the UC Berkeley Extension coding boot camp students who are going through the Prework.  It covers the following topics: Git, HTML, CSS< and JavaScript.
+This study guide was created for the UC Berkeley Extension coding boot camp students who are going through the Prework.  It covers the following topics: Git, HTML, CSS, and JavaScript.
 
 ## Installation
 
